@@ -1,0 +1,26 @@
+{
+	"libros" : [
+		{
+			"autor" : "Virginia Woolf",
+			"titulo": "La Señora Dalloway",	
+			"fichero" : "Virginia Woolf - La Señora Dalloway.txt",	
+			"disponible" : false,
+			"numeroPaginas" : 157 				
+		},
+		{
+			"autor" : "Anonimo",
+			"titulo": "Ejemplo",	
+			"fichero" : "Anonimo - Ejemplo.txt",	
+			"disponible" : true,
+			"numeroPaginas" : 3 				
+		},	
+		{
+			"autor" : "Miguel Delibes",
+			"titulo": "El camino",
+			"fichero" : "",	
+			"disponible" : false,
+			"numeroPaginas" : 100  				
+		}
+	]
+
+}
